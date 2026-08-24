@@ -8,7 +8,7 @@ Files, folders, and Markdown links are the source of truth. Existing notes inclu
 
 Read [AGENTS.md](AGENTS.md) before making durable changes. This applies even to assistants or clients that do not automatically discover `AGENTS.md` (for example, a general chat assistant working through a repository connector).
 
-There is also a private KB at `s4b7r/foam-kb-private`. When the user says to put something in "my KB" without specifying which one, do **not** assume this public repository: write here only when there is reasonably strong evidence that public publication is intended and appropriate. Otherwise use the private KB when clearly suitable, or ask when the destination is materially ambiguous. See [AGENTS.md](AGENTS.md) for the full routing rule.
+When the user says to put something in "my KB" without specifying if it is the public or private one, do **not** assume this public repository: write here only when there is reasonably strong evidence that public publication is intended and appropriate. Otherwise use the private KB when clearly suitable, or ask when the destination is materially ambiguous. See [AGENTS.md](AGENTS.md) for the full routing rule.
 
 ## Scope
 
