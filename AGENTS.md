@@ -8,8 +8,8 @@ This repository is the **public** knowledge base. Treat everything committed her
 
 There are two related KB repositories:
 
-- `s4b7r/foam-kb-private` — private, and the canonical destination for personal or non-public knowledge;
-- `s4b7r-labs/foam-kb` — this public KB, for knowledge that is intentionally suitable for publication.
+- [`s4b7r-labs/foam-kb-private`](https://github.com/s4b7r-labs/foam-kb-private) — private, and the canonical destination for personal or non-public knowledge;
+- [`s4b7r-labs/foam-kb`](https://github.com/s4b7r-labs/foam-kb) — this public KB, for knowledge that is intentionally suitable for publication.
 
 When the user asks to add, store, record, or update something in "my KB" or similar wording without explicitly naming public or private:
 
