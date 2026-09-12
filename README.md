@@ -6,6 +6,8 @@
 
 This repository is the public part of the personal knowledge base / knowledge graph. Everything committed here should be suitable for intentional public disclosure.
 
+The private counterpart is [`s4b7r-labs/foam-kb-private`](https://github.com/s4b7r-labs/foam-kb-private).
+
 To make your own see [Foam template](https://github.com/foambubble/foam-template).
 
 Beware; this is not a highly readable text, but a lot of notes, thoughts, ..., parts are also non-english.
