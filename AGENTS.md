@@ -4,23 +4,22 @@ Start with [README.md](README.md).
 
 This repository is the **public** personal knowledge base. Treat everything committed here as intentionally published information.
 
-## Public vs. private personal knowledge
+## Publication boundary
 
-There are two personal KB repositories relevant from this public repository:
-
-- [`s4b7r-labs/foam-kb-private`](https://github.com/s4b7r-labs/foam-kb-private) — private personal KB for personal, contextual, sensitive, or not-clearly-public knowledge;
-- [`s4b7r-labs/foam-kb`](https://github.com/s4b7r-labs/foam-kb) — this public personal KB, only for personal/general knowledge explicitly selected for publication.
-
-This repository is **never the default target for generic personal persistence**.
+This repository is **never the default target for generic persistence**.
 
 Write here only when one of these is true:
 
 1. The user explicitly asks to publish/add/store the material in the public KB.
 2. The current task specifically maintains or edits an existing artifact in this public KB.
 
-A generic request to **persist**, **remember**, **record**, or put something in "my KB" does not authorize a public write. Route such personal persistence to the private personal KB.
+A generic request to **persist**, **remember**, **record**, or put something in "my KB" does not authorize a public write.
 
-Never copy, derive, promote, mirror, or synchronize information from the private personal KB into this repository merely because it is useful, general, reusable, non-sensitive, or apparently safe to disclose. Publication is a separate user-intent boundary.
+When publication intent is absent, defer to the user's private persistence-routing authority. Its identity, repository location, and broader topology are intentionally not part of this public repository.
+
+Do not discover, inspect, probe for, or request access to private knowledge resources merely because this public repository says that a private routing authority exists.
+
+Never copy, derive, promote, mirror, or synchronize private material into this repository merely because it is useful, general, reusable, non-sensitive, or apparently safe to disclose. Publication is a separate user-intent boundary.
 
 An explicit public-target instruction still does not override privacy, confidentiality, IP, or other disclosure constraints.
 
@@ -30,11 +29,11 @@ Keep this repository limited to information appropriate for public disclosure.
 
 Do not expose broader private knowledge-routing topology here. In particular:
 
-- do not add names, locations, links, or identifiers for other non-public knowledge repositories or internal knowledge stores;
-- do not encode routing rules whose purpose is to reveal where non-public professional or organizational knowledge is stored;
-- when broader routing knowledge is needed, keep that routing in the private personal KB instead.
+- do not add names, locations, links, or identifiers for non-public knowledge repositories or internal knowledge stores;
+- do not encode routing rules whose purpose is to reveal where non-public professional, organizational, or personal knowledge is stored;
+- when broader routing knowledge is needed, defer to the private routing authority rather than reconstructing or exposing it here.
 
-The public KB should remain understandable as a public/private personal knowledge base without exposing private infrastructure behind that boundary.
+The public KB should remain understandable as a publication surface without exposing private infrastructure behind that boundary.
 
 ## Knowledge maintenance
 
