@@ -6,7 +6,7 @@
 
 This repository is the public part of the personal knowledge base / knowledge graph. Everything committed here should be suitable for intentional public disclosure.
 
-The private counterpart is [`s4b7r-labs/foam-kb-private`](https://github.com/s4b7r-labs/foam-kb-private).
+The private personal counterpart is [`s4b7r-labs/foam-kb-private`](https://github.com/s4b7r-labs/foam-kb-private). A separate IANUS-local work KB exists at [`s4b7r-ianus/kb`](https://github.com/s4b7r-ianus/kb); work-specific IP must not be transferred here.
 
 To make your own see [Foam template](https://github.com/foambubble/foam-template).
 
@@ -24,8 +24,8 @@ Files, folders, and Markdown links are the source of truth. Existing notes inclu
 
 Read [AGENTS.md](AGENTS.md) before making durable changes. This applies even to assistants or clients that do not automatically discover `AGENTS.md` (for example, a general chat assistant working through a repository connector).
 
-When the user says to put something in "my KB" without specifying if it is the public or private one, do **not** assume this public repository: write here only when there is reasonably strong evidence that public publication is intended and appropriate. Otherwise use the private KB when clearly suitable, or ask when the destination is materially ambiguous. See [AGENTS.md](AGENTS.md) for the full routing rule.
+When the user says to put something in "my KB" or asks to persist it, do **not** assume this public repository. Route work material to the work KB, non-work private material to the private personal KB, and write here only when public publication is clearly intended and appropriate. See [AGENTS.md](AGENTS.md) for the full routing rule.
 
 ## Scope
 
-Use this repository for durable knowledge that is useful to retain **and** appropriate to publish. Personal context, sensitive information, private project state, or material with no clear reason to be public belongs in the private KB instead.
+Use this repository for durable knowledge that is useful to retain **and** appropriate to publish. Non-work personal context, sensitive information, or material with no clear reason to be public belongs in the private personal KB. Work-specific or plausibly employer/customer-owned material belongs in the work KB and must not be published here.
