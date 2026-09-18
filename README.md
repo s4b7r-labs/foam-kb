@@ -24,7 +24,7 @@ Files, folders, and Markdown links are the source of truth. Existing notes inclu
 
 Read [AGENTS.md](AGENTS.md) before making durable changes. This applies even to assistants or clients that do not automatically discover `AGENTS.md` (for example, a general chat assistant working through a repository connector).
 
-When the user says to put something in "my KB" or asks to persist it, do **not** assume this public repository. Write here only when publication is clearly intended and appropriate; otherwise use the private personal KB as the routing authority. See [AGENTS.md](AGENTS.md) for the full routing rule.
+This repository is not a default persistence target. A generic request to persist, remember, record, or put something in "my KB" belongs in the private personal KB. Write here only when the user explicitly intends public publication or the task specifically maintains an existing public artifact. See [AGENTS.md](AGENTS.md) for the full routing rule.
 
 ## Scope
 
