@@ -9,7 +9,7 @@ This repository is the **public** personal knowledge base. Treat everything comm
 There are two personal KB repositories relevant from this public repository:
 
 - [`s4b7r-labs/foam-kb-private`](https://github.com/s4b7r-labs/foam-kb-private) — private personal KB for personal, contextual, sensitive, or not-clearly-public knowledge;
-- [`s4b7r-labs/foam-kb`](https://github.com/s4b7r-labs/foam-kb) — this public personal KB, for knowledge intentionally suitable for publication.
+- [`s4b7r-labs/foam-kb`](https://github.com/s4b7r-labs/foam-kb) — this public personal KB, only for personal/general knowledge explicitly selected for publication.
 
 This repository is **never the default target for generic personal persistence**.
 
