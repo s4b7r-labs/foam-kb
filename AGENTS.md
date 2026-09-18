@@ -11,15 +11,18 @@ There are two personal KB repositories relevant from this public repository:
 - [`s4b7r-labs/foam-kb-private`](https://github.com/s4b7r-labs/foam-kb-private) — private personal KB for personal, contextual, sensitive, or not-clearly-public knowledge;
 - [`s4b7r-labs/foam-kb`](https://github.com/s4b7r-labs/foam-kb) — this public personal KB, for knowledge intentionally suitable for publication.
 
-When the user asks to add, store, record, update, or persist something in "my KB" without explicitly naming public or private:
+This repository is **never the default target for generic personal persistence**.
 
-1. Write here only when there is reasonably strong confidence that publication is intended and the material is suitable for public disclosure.
-2. Prefer the private personal KB when the material is personal, contextual, sensitive, confidential, or simply lacks a clear reason to be public.
-3. If the correct destination is materially ambiguous, do not publish; use the private personal KB as the routing authority or ask the user when necessary.
-4. Never copy or derive information from the private personal KB into this repository merely because it would be useful here; publication requires its own justification or explicit user intent.
-5. An explicit user instruction naming this public KB still does not override privacy, confidentiality, IP, or publication constraints.
+Write here only when one of these is true:
 
-This routing rule applies before any content write. Do not silently duplicate or synchronize material across the public and private personal KBs.
+1. The user explicitly asks to publish/add/store the material in the public KB.
+2. The current task specifically maintains or edits an existing artifact in this public KB.
+
+A generic request to **persist**, **remember**, **record**, or put something in "my KB" does not authorize a public write. Route such personal persistence to the private personal KB.
+
+Never copy, derive, promote, mirror, or synchronize information from the private personal KB into this repository merely because it is useful, general, reusable, non-sensitive, or apparently safe to disclose. Publication is a separate user-intent boundary.
+
+An explicit public-target instruction still does not override privacy, confidentiality, IP, or other disclosure constraints.
 
 ## Public-repository boundary
 
