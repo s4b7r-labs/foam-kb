@@ -2,27 +2,36 @@
 
 Start with [README.md](README.md).
 
-This repository is the **public** knowledge base. Treat everything committed here as intentionally published information.
+This repository is the **public** personal knowledge base. Treat everything committed here as intentionally published information.
 
-## KB landscape and publication routing
+## Public vs. private personal knowledge
 
-There are three distinct KB repositories:
+There are two personal KB repositories relevant from this public repository:
 
-- [`s4b7r-ianus/kb`](https://github.com/s4b7r-ianus/kb) — IANUS-local work KB; work-specific IP stays there among the three KBs;
-- [`s4b7r-labs/foam-kb-private`](https://github.com/s4b7r-labs/foam-kb-private) — private personal KB for non-work personal or non-public knowledge;
+- [`s4b7r-labs/foam-kb-private`](https://github.com/s4b7r-labs/foam-kb-private) — private personal KB for personal, contextual, sensitive, or not-clearly-public knowledge;
 - [`s4b7r-labs/foam-kb`](https://github.com/s4b7r-labs/foam-kb) — this public personal KB, for knowledge intentionally suitable for publication.
 
-When the user asks to add, store, record, or update something in "my KB" or similar wording without explicitly naming public or private:
+When the user asks to add, store, record, update, or persist something in "my KB" without explicitly naming public or private:
 
-1. Work-specific, employer-derived, customer-derived, project-specific, or plausibly work-confidential material belongs in the work KB, never here.
-2. Write here only when there is reasonably strong confidence that publication is intended and the material is suitable for public disclosure.
-3. Prefer the private personal KB for non-work personal, contextual, potentially sensitive, or not-clearly-public material.
-4. If provenance, IP ownership, or publication intent is materially ambiguous, do not publish.
-5. Never copy from the private personal KB or work KB merely because the material would be useful here; publication requires its own justification.
-6. Work-derived material may appear here only as a deliberately safe, self-contained abstraction with no employer/customer/project-specific IP.
-7. An explicit user instruction naming this KB still does not override confidentiality, IP, or publication constraints.
+1. Write here only when there is reasonably strong confidence that publication is intended and the material is suitable for public disclosure.
+2. Prefer the private personal KB when the material is personal, contextual, sensitive, confidential, or simply lacks a clear reason to be public.
+3. If the correct destination is materially ambiguous, do not publish; use the private personal KB as the routing authority or ask the user when necessary.
+4. Never copy or derive information from the private personal KB into this repository merely because it would be useful here; publication requires its own justification or explicit user intent.
+5. An explicit user instruction naming this public KB still does not override privacy, confidentiality, IP, or publication constraints.
 
-This routing rule applies before any content write. Do not silently duplicate or synchronize material across KBs.
+This routing rule applies before any content write. Do not silently duplicate or synchronize material across the public and private personal KBs.
+
+## Public-repository boundary
+
+Keep this repository limited to information appropriate for public disclosure.
+
+Do not expose broader private knowledge-routing topology here. In particular:
+
+- do not add names, locations, links, or identifiers for other non-public knowledge repositories or internal knowledge stores;
+- do not encode routing rules whose purpose is to reveal where non-public professional or organizational knowledge is stored;
+- when broader routing knowledge is needed, keep that routing in the private personal KB instead.
+
+The public KB should remain understandable as a public/private personal knowledge base without exposing private infrastructure behind that boundary.
 
 ## Knowledge maintenance
 
